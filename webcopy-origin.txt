@@ -1,0 +1,904 @@
+Uri: https://financial-services.investment-one.com/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\index.htm
+Content Type: text/html
+
+Uri: https://financial-services.investment-one.com/wp-content/themes/astra/assets/fonts/astra.woff
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\themes\astra\assets\fonts\astra.woff
+Content Type: font/woff
+
+Uri: https://financial-services.investment-one.com/wp-content/themes/astra/assets/fonts/astra.ttf
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\themes\astra\assets\fonts\astra.ttf
+Content Type: font/ttf
+
+Uri: https://financial-services.investment-one.com/wp-content/themes/astra/assets/fonts/astra.svg
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\themes\astra\assets\fonts\astra.svg
+Content Type: image/svg+xml
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\xfn\11.html
+Content Type: text/html
+
+Uri: https://financial-services.investment-one.com/feed/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://financial-services.investment-one.com/comments/feed/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://financial-services.investment-one.com/wp-content/themes/astra/assets/css/minified/style.min.css?ver=4.3.1
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\themes\astra\assets\css\minified\style.min.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-includes/css/dist/block-library/style.min.css?ver=6.3.1
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/wp-live-chat-support/public/css/wplc-plugin-public.css?ver=10.0.10
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\wp-live-chat-support\public\css\wplc-plugin-public.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.15
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\header-footer-elementor\assets\css\header-footer-elementor.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.21.0
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.15.3
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\swiper\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-9.css?ver=1693907092
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-9.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.15.1
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/global.css?ver=1693907092
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-1562.css?ver=1693908456
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-1562.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.15
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\header-footer-elementor\inc\widgets-css\frontend.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-10.css?ver=1693907093
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-10.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-938.css?ver=1693907093
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-938.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-830.css?ver=1693908456
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-830.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.3.1
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\css.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-json/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/wp/v2/pages/1562
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\wp\v2\pages\1562.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2F
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/06/Investment-One-Logo-High-Res1.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\06\Investment-One-Logo-High-Res1.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/who-we-are/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\who-we-are\index.htm
+Content Type: text/html
+
+Uri: https://financial-services.investment-one.com/what-we-do/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\what-we-do\index.htm
+Content Type: text/html
+
+Uri: https://financial-services.investment-one.com/board-of-directors/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\board-of-directors\index.htm
+Content Type: text/html
+
+Uri: https://financial-services.investment-one.com/core-values/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\core-values\index.htm
+Content Type: text/html
+
+Uri: https://financial-services.investment-one.com/csr/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\csr\index.htm
+Content Type: text/html
+
+Uri: https://investment-one.com/wealth-management/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wealth-management\index.htm
+Content Type: text/html
+
+Uri: https://financial-services.investment-one.com/stockbroking/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\stockbroking\index.htm
+Content Type: text/html
+
+Uri: https://financial-services.investment-one.com/trust-service/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\trust-service\index.htm
+Content Type: text/html
+
+Uri: https://financial-services.investment-one.com/freelance-agency/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\freelance-agency\index.htm
+Content Type: text/html
+
+Uri: https://financial-services.investment-one.com/contact-us/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://investment-education.investment-one.com/articles/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\articles\index.htm
+Content Type: text/html
+
+Uri: https://investment-education.investment-one.com/webinars/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\webinars\index.htm
+Content Type: text/html
+
+Uri: https://stockbrokers.investment-one.com/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\index-2.htm
+Content Type: text/html
+
+Uri: https://investment-one.com/trust-services/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\trust-services\index.htm
+Content Type: text/html
+
+Uri: https://uk.investment-one.com/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\index-3.htm
+Content Type: text/html
+
+Uri: https://play.google.com/store/apps/details?id=com.investment.one.phoenix
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\store\apps\details.html
+Content Type: text/html
+
+Uri: https://apps.apple.com/ng/app/investment-one/id1634598997
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\ng\app\investment-one\id1634598997.html
+Content Type: text/html
+
+Uri: https://capital-management.investment-one.com/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\index-4.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/channel/UCiDEvw1l8kLIJ9X-DlTs4kA
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\channel\UCiDEvw1l8kLIJ9X-DlTs4kA.html
+Content Type: text/html
+
+Uri: https://nairametrics.com/2020/06/07/investment-one-records-highest-month-on-month-growth-on-rsa-fund-ii/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\2020\06\07\investment-one-records-highest-month-on-month-growth-on-rsa-fund-ii\index.htm
+Content Type: text/html
+
+Uri: https://investment-education.investment-one.com/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\index-5.htm
+Content Type: text/html
+
+Uri: https://www.investment-one.com/compliance/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\compliance\index.htm
+Content Type: text/html
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.15.3
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-JHP17SXN4C
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.js?ver=8.20.1
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\google-analytics-for-wordpress\assets\js\frontend-gtag.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.4.min.js?ver=3.6.4
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\jquery-3.6.4.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-migrate-3.4.1.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\jquery-migrate-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/06/New-IOFS-Logo-Reverse1.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\06\New-IOFS-Logo-Reverse1.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/investment.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\investment.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/global-economy.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\global-economy.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/dependable.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\dependable.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/mortgage-loan.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\mortgage-loan.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/click.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\click.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/1664287128google-play-store-logo-png.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\1664287128google-play-store-logo-png.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/Available_on_the_App_Store_black.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\Available_on_the_App_Store_black.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/web-mockup.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\web-mockup.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/investment-one-man-pro-1.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\investment-one-man-pro-1.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/Investment-One-Youtube-1.jpg
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\Investment-One-Youtube-1.jpg
+Content Type: image/jpeg
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/Investment-One-News-1.jpg
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\Investment-One-News-1.jpg
+Content Type: image/jpeg
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/Investment-One-Blog-1.jpg
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\Investment-One-Blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/Investment-One-Investment-Education-1-1.jpg
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\Investment-One-Investment-Education-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/BSI-Assurance-Mark-ISO-27001-Red-1536x713-1.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\BSI-Assurance-Mark-ISO-27001-Red-1536x713-1.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/11/NITDA-LOGO-1024x378.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\11\NITDA-LOGO-1024x378.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/themes/astra/assets/js/minified/style.min.js?ver=4.3.1
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\themes\astra\assets\js\minified\style.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/header-footer-elementor/inc/js/frontend.js?ver=1.6.15
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\header-footer-elementor\inc\js\frontend.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.9.7
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\mailchimp-for-wp\assets\js\forms.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.15.1
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.15.3
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.15.3
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.15.1
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.15.3
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.15.1
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.15.1
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-includes/js/wp-util.min.js?ver=6.3.1
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.3.1
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/11/NITDA-LOGO-300x111.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\11\NITDA-LOGO-300x111.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/11/NITDA-LOGO-768x284.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\11\NITDA-LOGO-768x284.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/11/NITDA-LOGO.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\11\NITDA-LOGO.png
+Content Type: image/png
+
+Uri: https://releases.jquery.com/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\index-1.htm
+Content Type: text/html
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.21.0
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.21.0
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.21.0
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.21.0
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.21.0
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/08/IONE-app-slider-2.jpg
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\08\IONE-app-slider-2.jpg
+Content Type: image/jpeg
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/shutterstock_2180463981.jpg
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\shutterstock_2180463981.jpg
+Content Type: image/jpeg
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/IONE-app-banner.jpg
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\IONE-app-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/shutterstock_1903082815.jpg
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\shutterstock_1903082815.jpg
+Content Type: image/jpeg
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/shutterstock_1879675894.jpg
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\shutterstock_1879675894.jpg
+Content Type: image/jpeg
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/shutterstock_795017047.jpg
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\shutterstock_795017047.jpg
+Content Type: image/jpeg
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/pexels-benjamin-suter-2361999.jpg
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\pexels-benjamin-suter-2361999.jpg
+Content Type: image/jpeg
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/skyscraper-commercial-building.jpg
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\skyscraper-commercial-building.jpg
+Content Type: image/jpeg
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/07/Group-3247.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\07\Group-3247.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/images/placeholder.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\images\placeholder.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-79.css?ver=1693908058
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-79.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Varela+Round:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.3.1
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\css-1.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-json/wp/v2/pages/79
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\wp\v2\pages\79.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2Fwho-we-are%2F
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2Fwho-we-are%2F&format=xml
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-1709.css?ver=1693920325
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-1709.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-json/wp/v2/pages/1709
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\wp\v2\pages\1709.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2Fwhat-we-do%2F
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2Fwhat-we-do%2F&format=xml
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-83.css?ver=1693908690
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-83.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Varela+Round:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Odor+Mean+Chey:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.3.1
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\css-2.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-json/wp/v2/pages/83
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\wp\v2\pages\83.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2Fboard-of-directors%2F
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2Fboard-of-directors%2F&format=xml
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-354.css?ver=1693908691
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-354.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-357.css?ver=1693908691
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-357.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-1022.css?ver=1693908691
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-1022.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-1015.css?ver=1693908691
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-1015.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-1119.css?ver=1693908691
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-1119.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-1122.css?ver=1693908691
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-1122.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-304.css?ver=1693908691
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-304.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-344.css?ver=1693908691
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-344.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-449.css?ver=1693908691
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-449.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/07/EGBERT-IMOMOH_.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\07\EGBERT-IMOMOH_.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/07/JOKE-CHUKWUMAH_.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\07\JOKE-CHUKWUMAH_.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2021/03/Henrietta-Ugboh.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2021\03\Henrietta-Ugboh.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2021/03/Ms-Keri.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2021\03\Ms-Keri.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2022/02/Mr-Dave-Inyere.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2022\02\Mr-Dave-Inyere.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2022/02/Mr-Benjamin-Oviosu_.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2022\02\Mr-Benjamin-Oviosu_.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/07/NICHOLAS-NYAMALI_.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\07\NICHOLAS-NYAMALI_.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/07/KEMI-ABILI2..png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\07\KEMI-ABILI2..png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/07/Ademola-Aofolaju.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\07\Ademola-Aofolaju.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/07/EGBERT-IMOMOH_-300x270.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\07\EGBERT-IMOMOH_-300x270.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/07/JOKE-CHUKWUMAH_-300x270.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\07\JOKE-CHUKWUMAH_-300x270.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2021/03/Henrietta-Ugboh-300x270.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2021\03\Henrietta-Ugboh-300x270.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2021/03/Ms-Keri-300x270.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2021\03\Ms-Keri-300x270.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2022/02/Mr-Dave-Inyere-300x270.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2022\02\Mr-Dave-Inyere-300x270.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2022/02/Mr-Benjamin-Oviosu_-300x270.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2022\02\Mr-Benjamin-Oviosu_-300x270.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/07/NICHOLAS-NYAMALI_-300x270.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\07\NICHOLAS-NYAMALI_-300x270.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/07/KEMI-ABILI2.-300x270.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\07\KEMI-ABILI2.-300x270.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/07/Ademola-Aofolaju-300x270.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\07\Ademola-Aofolaju-300x270.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-81.css?ver=1693927931
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-81.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Varela+Round:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.3.1
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\css-3.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-json/wp/v2/pages/81
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\wp\v2\pages\81.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2Fcore-values%2F
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2Fcore-values%2F&format=xml
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-87.css?ver=1693926405
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-87.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-json/wp/v2/pages/87
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\wp\v2\pages\87.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2Fcsr%2F
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2Fcsr%2F&format=xml
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-197.css?ver=1694018459
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-197.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-json/wp/v2/pages/197
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\wp\v2\pages\197.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2Fstockbroking%2F
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2Fstockbroking%2F&format=xml
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/06/Investment-One-Stockbroking-hover.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\06\Investment-One-Stockbroking-hover.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/06/Investment-One-Stockbroking-hover-300x222.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\06\Investment-One-Stockbroking-hover-300x222.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-211.css?ver=1694015230
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-211.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-json/wp/v2/pages/211
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\wp\v2\pages\211.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2Ftrust-service%2F
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2Ftrust-service%2F&format=xml
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/07/Investment-One-Trust-hover.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\07\Investment-One-Trust-hover.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/07/Investment-One-Trust-hover-300x222.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\07\Investment-One-Trust-hover-300x222.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-594.css?ver=1693913170
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-594.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-json/wp/v2/pages/594
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\wp\v2\pages\594.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2Ffreelance-agency%2F
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2Ffreelance-agency%2F&format=xml
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-373.css?ver=1693920559
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-373.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Varela+Round:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.3.1
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\css-4.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-json/wp/v2/pages/373
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\wp\v2\pages\373.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2Fcontact-us%2F
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2Fcontact-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: https://www.google.com/maps?ll=6.436407,3.421563&z=16&t=m&hl=en-US&gl=US&mapclient=embed&q=37+Kofo+Abayomi+St+Victoria+Island+106104+Lagos
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\maps.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/investment_one/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\investment_one\index.htm
+Content Type: text/html
+
+Uri: https://www.google.com/recaptcha/api.js?render=explicit&ver=3.15.1
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.investment-one.com/privacy-policy/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/06/Bg-About-New.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\06\Bg-About-New.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/08/low-angle-view-modern-office-buildings.jpg
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\08\low-angle-view-modern-office-buildings.jpg
+Content Type: image/jpeg
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2023/08/african-business-male-people-shaking-hands.jpg
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2023\08\african-business-male-people-shaking-hands.jpg
+Content Type: image/jpeg
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/07/coco.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\07\coco.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/07/placeholder.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\07\placeholder.png
+Content Type: image/png
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2021/10/jean-philippe-delberghe-660138-unsplash.jpg
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2021\10\jean-philippe-delberghe-660138-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/06/BG-intro-About.png
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\06\BG-intro-About.png
+Content Type: image/png
+
+Uri: https://www.investment-one.com/trust-services/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\trust-services\index-1.htm
+Content Type: text/html
+
+Uri: https://financial-services.investment-one.com/freelance-registration-form/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\freelance-registration-form\index.htm
+Content Type: text/html
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/elementor/css/post-1176.css?ver=1693918858
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\elementor\css\post-1176.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-json/wp/v2/pages/1176
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\wp\v2\pages\1176.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2Ffreelance-registration-form%2F
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: https://financial-services.investment-one.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffinancial-services.investment-one.com%2Ffreelance-registration-form%2F&format=xml
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.css?ver=4.1.4
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\flatpickr\flatpickr.min.css
+Content Type: text/css
+
+Uri: https://financial-services.investment-one.com/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\plugins\elementor\assets\lib\flatpickr\flatpickr.min.js
+Content Type: application/javascript
+
+Uri: https://financial-services.investment-one.com/wp-content/uploads/2020/07/hector-martinez-110928-unsplash.jpg
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\wp-content\uploads\2020\07\hector-martinez-110928-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://www.facebook.com/InvestmentOne/
+File Name: C:\Downloaded Web Sites\financial-services.investment-one.com\InvestmentOne\index.htm
+Content Type: text/html
+
